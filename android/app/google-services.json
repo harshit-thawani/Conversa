@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "409928369795",
+    "project_id": "final-chat-9b976",
+    "storage_bucket": "final-chat-9b976.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:409928369795:android:bf255786c21e779e1afdb6",
+        "android_client_info": {
+          "package_name": "com.example.final_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "409928369795-idm3ipo1li3frcqhpie533d0pv4d55tl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQjN-dB2BVAUVrDrbG07fjPHMrMmskO3E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "409928369795-idm3ipo1li3frcqhpie533d0pv4d55tl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "409928369795-r5kksd3da9kdrn28uj1j103i4boolr1v.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.finalChat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
